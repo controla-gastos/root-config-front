@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@4.4.1/lib/system/single-spa.min.js",
+    "navbar": "https://navbar-front.firebaseapp.com/main-es5.5e95cfa6599d3230a988.js",
+    "income": "https://income-front.firebaseapp.com/main-es5.72b43133ac337d4183f7.js",
+    "transactions": "https://transactions-front.firebaseapp.com/main-es5.e6ef47b85cc3c3a05839.js"
+  }
+}
